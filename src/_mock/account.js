@@ -1,8 +1,8 @@
 // ----------------------------------------------------------------------
 
 const account = {
-  displayName: 'Jerald Timbang',
-  email: 'jeraldtimbang@gmail.com',
+  displayName: 'Elon Mask',
+  email: 'Elonmask123@gmail.com',
   photoURL: '/assets/images/avatars/elon.jpg',
 };
 

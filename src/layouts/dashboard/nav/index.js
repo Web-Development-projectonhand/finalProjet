@@ -97,7 +97,7 @@ export default function Nav({ openNav, onCloseNav }) {
             </Typography>
           </Box>
 
-          <Button href="http://192.168.1.50:3000/dashboard/products" target="_blank" variant="contained">
+          <Button href="http://localhost:3000/dashboard/products" target="_blank" variant="contained">
             Buy Now!
           </Button>
         </Stack>

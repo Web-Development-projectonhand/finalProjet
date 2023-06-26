@@ -27,14 +27,14 @@ const navConfig = [
     icon: icon('ic_blog'),
   },
   {
-    title: 'login',
+    title: '',
     path: '/login',
-    icon: icon('ic_lock'),
+    icon: icon(''),
   },
   {
-    title: 'Not found',
+    title: '',
     path: '/404',
-    icon: icon('ic_disabled'),
+    icon: icon(''),
   },
 ];
 
